@@ -37,4 +37,5 @@ btnClear.onclick = function(){
   //   outerTag.innerHTML += `<li class="list_item">${value}  : ${newObj[key]}</li> `
   // }
 // }
+// kd;aslkd;aksd;l
     
