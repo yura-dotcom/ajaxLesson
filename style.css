@@ -7,13 +7,11 @@
   border: none;
   
 }
+body {
+  background: rgb(135, 76, 230);
+}
 
 #root, #list {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   padding: 20px;
-  background: rgb(17, 168, 228);
-  color: beige
+  color: rgb(255, 255, 255)
 }
